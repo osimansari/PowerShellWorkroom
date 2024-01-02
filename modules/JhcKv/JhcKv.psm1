@@ -23,7 +23,7 @@ function getManifest {
 }
 
 function Get-DefinedVault {
-    
+    # test comment
     $obj = getManifest
     $a
     if(-not $?) {
